@@ -1,0 +1,80 @@
+@charset "utf-8";
+#wrapper {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border: 2px solid #000000;
+}
+#header {
+	height: 250px;
+}
+#nav {
+}
+#content {
+	padding-right: 20px;
+	padding-left: 20px;
+	float: none;
+}
+#content p {
+	width: auto;
+	color: #B3B3B3;
+	font-family: "微软雅黑";
+	padding-right: 0px;
+	float: none;
+	text-align: left;
+	border-width: 0px;
+	background-image: url(url);
+}
+
+#footer {
+	height: auto;
+	background-image: url(pic/footer.jpg);
+	color: #9B998E;
+	padding: 10px;
+	font-family: "微软雅黑";
+	font-size: small;
+
+}
+#content h2 {
+	color: #C4B139;
+	font-family: "微软雅黑";
+	font-weight: lighter;
+	text-align: center;
+}
+#content ul li {
+	list-style-image: url(pic/tubiao.png);
+	list-style-position: outside;
+	color: #C0C0C0;
+	font-family: "微软雅黑";
+	font-size: large;
+	text-align: left;
+}
+
+tbody tr td {
+	color: #C0C0C0;
+	font-family: "方正兰亭超细黑简体", "微软雅黑";
+	font-size: small;
+	padding: 10px;
+}
+
+
+.float {
+	float: right;
+
+}
+.floatleft {
+	float: left;
+	padding-left: 0px;
+	padding-right: 20px;
+}
+.zi {
+	font-size: large;
+	color: #B7AF7D;
+	text-decoration: none;
+}
+.shipin {
+	padding-left: auto;
+	padding-right: auto;
+	text-align: center;
+}
